@@ -1,0 +1,5 @@
+C:\Users\Kompich\Desktop\Sme5\Primeri\Primer_2\obj\Debug\net7.0\Primer_2.csproj.AssemblyReference.cache
+C:\Users\Kompich\Desktop\Sme5\Primeri\Primer_2\obj\Debug\net7.0\Primer_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompich\Desktop\Sme5\Primeri\Primer_2\obj\Debug\net7.0\Primer_2.AssemblyInfoInputs.cache
+C:\Users\Kompich\Desktop\Sme5\Primeri\Primer_2\obj\Debug\net7.0\Primer_2.AssemblyInfo.cs
+C:\Users\Kompich\Desktop\Sme5\Primeri\Primer_2\obj\Debug\net7.0\Primer_2.csproj.CoreCompileInputs.cache
